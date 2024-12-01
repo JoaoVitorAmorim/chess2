@@ -1,0 +1,1 @@
+typedef Position = (int, int);
